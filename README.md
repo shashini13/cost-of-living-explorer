@@ -47,7 +47,7 @@ streamlit run app.py
 
 ## 🌐 Live demo
 
-**[View the live app →]([your-streamlit-cloud-url-here](https://cost-of-living-explorer.streamlit.app/))**
+**[View the live app →](https://cost-of-living-explorer.streamlit.app/)**
 
 Deployed for free on Streamlit Community Cloud.
 
