@@ -1,0 +1,96 @@
+rank,country_code,country,region,cost_index,monthly_estimate_usd,grocery_index,rent_index,utilities_index,transport_index
+1,EG,Egypt,Africa,19,700,68.0,93.0,93.0,75.0
+2,IN,India,Asia,21,750,71.0,90.0,90.0,69.0
+3,LK,Sri Lanka,Asia,21,750,62.0,93.0,93.0,67.0
+4,MM,Myanmar,Asia,21,750,71.6,81.78,68.28,62.8
+5,NP,Nepal,Asia,22,800,67.0,90.0,90.0,57.0
+6,RW,Rwanda,Africa,22,800,69.0,89.0,89.0,66.0
+7,TR,Turkey,Other,23,850,63.0,90.0,90.0,55.0
+8,GE,Georgia,Other,23,850,59.0,89.0,89.0,70.0
+9,VN,Vietnam,Asia,24,900,61.0,87.0,87.0,65.0
+10,LA,Laos,Asia,24,900,56.0,88.0,88.0,58.0
+11,MD,Moldova,Europe,26,950,64.0,89.0,89.0,64.0
+12,BD,Bangladesh,Asia,26,950,57.0,90.0,90.0,63.0
+13,TH,Thailand,Asia,28,1000,58.0,91.0,91.0,66.0
+14,CO,Colombia,Americas,28,1000,61.0,81.0,81.0,65.0
+15,ID,Indonesia,Asia,28,1000,55.0,88.0,88.0,69.0
+16,MY,Malaysia,Asia,29,1050,59.0,89.0,89.0,69.0
+17,KH,Cambodia,Asia,29,1050,55.0,81.0,81.0,56.0
+18,NG,Nigeria,Africa,29,1050,50.0,83.0,83.0,69.0
+19,DO,Dominican Republic,Americas,30,1100,54.0,92.0,92.0,60.0
+20,KE,Kenya,Africa,30,1100,54.0,87.0,87.0,62.0
+21,RO,Romania,Europe,31,1150,59.0,78.0,78.0,48.0
+22,GH,Ghana,Africa,31,1150,44.0,84.0,84.0,45.0
+23,AR,Argentina,Americas,32,1150,59.0,87.0,87.0,60.0
+24,PH,Philippines,Asia,32,1150,54.0,81.0,81.0,62.0
+25,BG,Bulgaria,Europe,32,1150,53.0,83.0,83.0,50.0
+26,BA,Bosnia and Herzegovina,Europe,32,1150,54.0,87.0,87.0,50.0
+27,RS,Serbia,Europe,33,1200,50.0,82.0,82.0,45.0
+28,ME,Montenegro,Europe,33,1200,52.0,83.0,83.0,45.0
+29,MU,Mauritius,Africa,33,1200,48.0,88.0,88.0,64.0
+30,AL,Albania,Europe,34,1250,51.0,79.0,79.0,44.0
+31,GT,Guatemala,Americas,34,1250,54.0,77.0,77.0,65.0
+32,PL,Poland,Europe,35,1300,58.0,82.0,82.0,49.0
+33,BR,Brazil,Americas,35,1300,60.0,82.0,82.0,56.0
+34,MA,Morocco,Africa,35,1300,54.0,82.0,82.0,57.0
+35,JO,Jordan,Middle East,36,1300,50.0,83.0,83.0,54.0
+36,TN,Tunisia,Africa,36,1300,62.6,70.56,67.52,61.76
+37,EC,Ecuador,Americas,37,1350,50.0,83.0,83.0,70.0
+38,PE,Peru,Americas,37,1350,55.0,63.0,63.0,63.0
+39,MX,Mexico,Americas,38,1400,50.0,73.0,73.0,53.0
+40,MN,Mongolia,Asia,38,1400,60.8,68.7,56.28,60.88
+41,HU,Hungary,Europe,39,1450,50.0,73.0,73.0,45.0
+42,ZA,South Africa,Africa,40,1450,56.0,75.0,75.0,51.0
+43,MK,North Macedonia,Europe,40,1450,59.0,66.0,61.32,61.12
+44,HR,Croatia,Europe,41,1500,43.0,79.0,79.0,42.0
+45,LT,Lithuania,Europe,42,1550,48.0,77.0,77.0,43.0
+46,BH,Bahrain,Middle East,42,1550,40.0,77.0,77.0,65.0
+47,OM,Oman,Middle East,42,1550,45.0,75.0,75.0,69.0
+48,PG,Papua New Guinea,Oceania,42,1550,57.2,64.86,55.14,50.16
+49,PA,Panama,Americas,43,1550,46.0,76.0,76.0,68.0
+50,TW,Taiwan,Asia,43,1550,30.0,76.0,76.0,57.0
+51,SA,Saudi Arabia,Middle East,43,1550,36.0,84.0,84.0,65.0
+52,CZ,Czechia,Europe,44,1600,48.0,64.0,64.0,44.0
+53,JM,Jamaica,Americas,44,1600,39.0,55.0,55.0,65.0
+54,CL,Chile,Americas,45,1650,38.0,68.0,68.0,54.0
+55,CR,Costa Rica,Americas,46,1700,38.0,78.0,78.0,58.0
+56,FJ,Fiji,Oceania,46,1700,53.6,60.42,55.76,51.2
+57,LV,Latvia,Europe,47,1700,43.0,69.0,69.0,44.0
+58,SK,Slovakia,Europe,48,1750,44.0,61.0,61.0,41.0
+59,CN,China,Asia,50,1850,35.0,77.0,77.0,59.0
+60,UY,Uruguay,Americas,52,1900,30.0,66.0,66.0,48.0
+61,GR,Greece,Europe,52,1900,38.0,66.0,66.0,37.0
+62,EE,Estonia,Europe,53,1950,43.0,60.0,60.0,38.0
+63,KW,Kuwait,Middle East,53,1950,35.0,75.0,75.0,61.0
+64,PT,Portugal,Europe,54,2000,41.0,61.0,61.0,33.0
+65,SI,Slovenia,Europe,54,2000,42.0,64.0,64.0,39.0
+66,TT,Trinidad and Tobago,Americas,55,2000,45.5,49.77,51.16,49.2
+67,MT,Malta,Europe,56,2050,32.0,71.0,71.0,39.0
+68,CY,Cyprus,Europe,58,2100,36.0,63.0,63.0,39.0
+69,AE,United Arab Emirates,Middle East,59,2150,31.0,66.0,66.0,62.0
+70,ES,Spain,Europe,60,2200,43.0,51.0,51.0,34.0
+71,QA,Qatar,Middle East,60,2200,37.0,48.0,48.0,60.0
+72,SG,Singapore,Asia,61,2250,36.0,55.0,55.0,14.0
+73,KR,South Korea,Asia,62,2250,0.0,64.0,64.0,43.0
+74,IT,Italy,Europe,63,2300,38.0,52.0,52.0,29.0
+75,HK,Hong Kong,Asia,64,2350,16.0,55.0,55.0,36.0
+76,FR,France,Europe,67,2450,36.0,42.0,42.0,23.0
+77,DE,Germany,Europe,68,2500,39.0,44.0,44.0,24.0
+78,AT,Austria,Europe,72,2650,37.0,47.0,47.0,24.0
+79,BE,Belgium,Europe,72,2650,38.0,41.0,41.0,25.0
+80,JP,Japan,Asia,74,2700,4.0,41.0,41.0,25.0
+81,NL,Netherlands,Europe,75,2750,43.0,35.0,35.0,17.0
+82,CA,Canada,Americas,78,2850,27.0,33.0,33.0,36.0
+83,GB,United Kingdom,Europe,79,2900,45.0,20.0,20.0,20.0
+84,NZ,New Zealand,Oceania,80,2950,30.0,3.0,3.0,34.0
+85,FI,Finland,Europe,80,2950,34.0,34.0,34.0,18.0
+86,US,United States,Americas,82,3000,42.0,28.0,28.0,42.0
+87,SE,Sweden,Europe,84,3050,31.0,38.0,38.0,7.0
+88,DK,Denmark,Europe,88,3200,30.0,14.0,14.0,11.0
+89,AU,Australia,Oceania,91,3350,26.0,14.0,14.0,32.0
+90,IE,Ireland,Europe,91,3350,30.0,7.0,7.0,22.0
+91,NO,Norway,Europe,95,3500,13.0,40.0,40.0,7.0
+92,LU,Luxembourg,Europe,95,3500,27.0,9.0,9.0,30.0
+93,IL,Israel,Middle East,97,3550,5.0,10.0,10.0,15.0
+94,IS,Iceland,Europe,99,3600,19.0,27.0,27.0,9.0
+95,CH,Switzerland,Europe,109,4000,3.0,4.0,4.0,15.0
