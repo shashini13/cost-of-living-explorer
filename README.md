@@ -19,7 +19,7 @@ This project analyzes and visualizes cost-of-living data for 95 countries, built
 
 - Monthly cost of living across the 95 countries is **right-skewed**: most countries cluster between $700-$2,000/month, with a small number of significantly pricier outliers (Switzerland, Israel, Iceland) stretching the range up to $4,000/month.
 - The **mean ($1,774)** is notably higher than the **median ($1,550)**, confirming that a handful of expensive countries pull the average upward.
-- Regional averages range more than **2.5x**, from Asia (~$1,337/month) to Oceania (~$2,388/month).
+- Regional averages range more than **2.5x**, from Asia (\~$1,337/month) to Oceania (\~$2,388/month).
 - Sri Lanka ranks among the **3 cheapest countries globally** (~$750/month), with rent and utilities affordability scores roughly 4-5x higher (cheaper) than countries like the UK or Australia.
 
 ## 🛠️ Tech stack
@@ -47,7 +47,7 @@ streamlit run app.py
 
 ## 🌐 Live demo
 
-**[View the live app →](your-streamlit-cloud-url-here)**
+**[View the live app →]([your-streamlit-cloud-url-here](https://cost-of-living-explorer.streamlit.app/))**
 
 Deployed for free on Streamlit Community Cloud.
 
